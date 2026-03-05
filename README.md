@@ -73,11 +73,6 @@ Meu objetivo de longo prazo é evoluir como **engenheiro de software**, aprofund
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![Status Geral](https://github-readme-stats.vercel.app/api?username=Caio-Freitas005&show_icons=true&theme=dark&count_private=true)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Freitas005)](https://github.com/anuraghazra/github-readme-stats)
----
 
 # 🎯 Atualmente estudando
 
