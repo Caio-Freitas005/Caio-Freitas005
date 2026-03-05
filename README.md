@@ -1,4 +1,4 @@
-# Caio Freitas
+# 🚀 Caio Freitas
 
 - Desenvolvedor Full-Stack  
 - Técnico em Desenvolvimento de Sistemas  
@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e gosto de construir projetos que combinam **desen
 
 ---
 
-# Sobre mim
+# 🚀 Sobre mim
 
 - Focado em **Desenvolvimento Web Fullstack**
 - Trabalho principalmente com **Python no backend** e **Javascript/Typescript** no frontend
