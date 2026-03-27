@@ -82,7 +82,7 @@ Meu objetivo de longo prazo é evoluir como **engenheiro de software**, aprofund
 # 📫 Contato
 
 💼 [Linkedin](https://www.linkedin.com/in/caio-da-silva-freitas-84b64a285/)  
-📧 [Email](caiodasilvafreitas@gmail.com)
+📧 [Email](mailto:caiodasilvafreitas@gmail.com)
 
 ---
 
