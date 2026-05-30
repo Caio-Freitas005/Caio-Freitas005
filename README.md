@@ -3,9 +3,9 @@
 - Desenvolvedor Full-Stack  
 - Técnico em Desenvolvimento de Sistemas  
 - Estudante de Análise e Desenvolvimento de Sistemas  
-- Focado em **Desenvolvimento Web Fullstack**
+- Focado em **Desenvolvimento Fullstack**
 
-Sou apaixonado por tecnologia e gosto de construir projetos que combinam **desenvolvimento web, processamento de dados e automação inteligente**.
+Sou apaixonado por tecnologia e gosto de construir projetos que combinam **engenharia de software, processamento de dados e automação**.
 
 ---
 
@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e gosto de construir projetos que combinam **desen
 - Gosto de aprender construindo **projetos reais**
 - Escritor e administrador de uma **comunidade brasileira de escritores**
 
-Meu objetivo de longo prazo é evoluir como **engenheiro de software**, aprofundar meus conhecimentos em **IA**, e futuramente **ensinar tecnologia**.
+Meu objetivo de longo prazo é evoluir como **engenheiro de software**, aprofundar meus conhecimentos em **IA**, empreender e futuramente ser um educador na área de tecnologia.
 
 ---
 
